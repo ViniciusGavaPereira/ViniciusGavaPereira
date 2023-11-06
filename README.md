@@ -1,6 +1,6 @@
 
 
-                                    SOBRE MIM
+                                                                SOBRE MIM
 
 - Olá! eu sou o Vinicius Gava 😃
 - Falo português, inglês e um pouquinho de libras.
@@ -21,8 +21,8 @@ Você pode me encontrar:
 
 -------
 
-
-                            GITHUB STATUS
+    
+                                                               GITHUB STATUS
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusGavaPereira&show_icons=true&theme=dracula)
 
@@ -45,3 +45,7 @@ Você pode me encontrar:
 ![Spring-boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 )
 
+
+###O que eu mais utilizo
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGavaPereira&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
